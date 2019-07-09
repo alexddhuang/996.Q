@@ -4,3 +4,4 @@
 这个仓库用于收集有关 996 的自嘲、笑话、段子，也算是继续扩大 [996.ICU](https://github.com/996icu/996.ICU) 影响力的一个方法。
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
