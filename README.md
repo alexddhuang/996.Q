@@ -8,4 +8,4 @@
 
 ## 贡献指南
 
-把段子提交到 [Issues](https://github.com/alexddhuang/996.Q/issues)，点赞（👍）数量超过 996 即可入选。
+把段子提交到 [Issues](https://github.com/alexddhuang/996.Q/issues)，点赞（👍）数量达到 996 即可入选。
